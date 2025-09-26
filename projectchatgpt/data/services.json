@@ -1,0 +1,62 @@
+[
+  {
+    "id": "concept-design",
+    "title": "Concept Design",
+    "description": "Transforming ideas into architectural visions through creative exploration and innovative solutions.",
+    "icon": "concept-design",
+    "features": [
+      "Initial site analysis and programming",
+      "Conceptual sketches and 3D massing studies", 
+      "Design alternatives exploration",
+      "Client presentation materials"
+    ]
+  },
+  {
+    "id": "schematic-design", 
+    "title": "Schematic Design",
+    "description": "Developing detailed design solutions with comprehensive planning and spatial organization.",
+    "icon": "schematic-design",
+    "features": [
+      "Detailed floor plans and elevations",
+      "Material and finish selections",
+      "Structural and MEP coordination",
+      "Design development documentation"
+    ]
+  },
+  {
+    "id": "construction-documentation",
+    "title": "Construction Documentation", 
+    "description": "Precise technical drawings and specifications for seamless project execution.",
+    "icon": "construction-docs",
+    "features": [
+      "Complete working drawings",
+      "Technical specifications",
+      "Detail drawings and sections",
+      "Permit application support"
+    ]
+  },
+  {
+    "id": "3d-visualization",
+    "title": "3D Visualization",
+    "description": "Photorealistic renderings and animations that bring architectural designs to life.", 
+    "icon": "3d-visualization",
+    "features": [
+      "Photorealistic exterior renderings",
+      "Interior visualization and walkthroughs",
+      "Animation and virtual reality experiences",
+      "Marketing and presentation materials"
+    ]
+  },
+  {
+    "id": "interior-design",
+    "title": "Interior Design",
+    "description": "Comprehensive interior solutions that enhance functionality and aesthetic appeal.",
+    "icon": "interior-design", 
+    "features": [
+      "Space planning and layout design",
+      "Material and finish specifications",
+      "Custom furniture design",
+      "Lighting and accessories coordination"
+    ]
+  }
+]
