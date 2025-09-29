@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Architect Portfolio - Modern Animated Website
 
 A production-ready, highly animated architect portfolio website built with Next.js, featuring smooth animations, 3D backgrounds, and professional design.
@@ -191,6 +190,3 @@ For questions or support:
 ---
 
 Built with ❤️ using modern web technologies for optimal performance and user experience.
-=======
-# portfolio
->>>>>>> a0f965442c5dea432acee54ee2b281348e435763

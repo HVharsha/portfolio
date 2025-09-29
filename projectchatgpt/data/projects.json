@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Minimalist Lakeside House",
+    "slug": "lakeside-house",
+    "year": 2024,
+    "client": "Private",
+    "location": "Kerala, India", 
+    "area": "3500 sq.ft",
+    "role": "Lead Architect",
+    "tools": ["Revit", "Rhino", "V-Ray", "Photoshop"],
+    "shortDescription": "A minimal lakeside retreat with open plan living and large overhangs.",
+    "description": "This lakeside residence embodies the principles of minimalist architecture while responding sensitively to its natural setting. The design features clean lines, large overhangs for weather protection, and expansive glazing that blurs the boundary between interior and exterior spaces. The project challenged us to create a modern home that feels integrated with the landscape rather than imposed upon it. Sustainable design strategies include natural ventilation, solar orientation optimization, and the use of locally sourced materials. The result is a tranquil retreat that celebrates both architectural clarity and environmental harmony.",
+    "heroImage": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg",
+      "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg",
+      "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg"
+    ],
+    "category": "Residential"
+  },
+  {
+    "title": "Urban Office Complex", 
+    "slug": "urban-office-complex",
+    "year": 2023,
+    "client": "TechFlow Industries",
+    "location": "Bangalore, India",
+    "area": "45000 sq.ft", 
+    "role": "Principal Architect",
+    "tools": ["AutoCAD", "Revit", "SketchUp", "Lumion"],
+    "shortDescription": "A modern office complex designed for collaboration and sustainability.",
+    "description": "This urban office complex redefines the modern workplace through innovative design that prioritizes both human well-being and environmental performance. The building features a dramatic atrium that serves as the heart of the complex, promoting natural light penetration and visual connectivity across all floors. Green walls and integrated landscaping create a biophilic environment that enhances air quality and provides psychological benefits to occupants. The facade system incorporates dynamic shading elements that respond to solar conditions throughout the day, optimizing energy performance while creating visual interest. Flexible floor plates accommodate various work styles, from focused individual work to large collaborative gatherings.",
+    "heroImage": "https://images.pexels.com/photos/2506988/pexels-photo-2506988.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/2506988/pexels-photo-2506988.jpeg",
+      "https://images.pexels.com/photos/3825569/pexels-photo-3825569.jpeg",
+      "https://images.pexels.com/photos/2467558/pexels-photo-2467558.jpeg",
+      "https://images.pexels.com/photos/1797428/pexels-photo-1797428.jpeg"
+    ],
+    "category": "Commercial"
+  },
+  {
+    "title": "Boutique Hotel Interior",
+    "slug": "boutique-hotel-interior", 
+    "year": 2023,
+    "client": "Heritage Hotels Group",
+    "location": "Goa, India",
+    "area": "8000 sq.ft",
+    "role": "Interior Design Lead", 
+    "tools": ["SketchUp", "V-Ray", "AutoCAD", "Photoshop"],
+    "shortDescription": "Luxurious interior design blending contemporary aesthetics with local heritage.",
+    "description": "This boutique hotel interior project presented the unique challenge of honoring Goan architectural heritage while creating spaces that appeal to contemporary luxury travelers. The design narrative weaves together traditional Portuguese colonial elements with modern Indian craftsmanship, creating an authentic yet sophisticated atmosphere. Custom furniture pieces were developed in collaboration with local artisans, celebrating regional woodworking techniques and materials. The color palette draws inspiration from Goan sunsets and spices, implemented through carefully curated textiles, artwork, and lighting design. Each guest room tells a story of place while providing modern amenities and comfort. The project demonstrates how thoughtful interior design can create economic opportunities for local craftspeople while delivering an exceptional hospitality experience.",
+    "heroImage": "https://images.pexels.com/photos/1743229/pexels-photo-1743229.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1743229/pexels-photo-1743229.jpeg",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg",
+      "https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg"
+    ],
+    "category": "Interior"
+  }
+]
