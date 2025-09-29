@@ -1,0 +1,52 @@
+[
+  {
+    "name": "AutoCAD",
+    "level": 95,
+    "category": "Documentation"
+  },
+  {
+    "name": "Revit",
+    "level": 90,
+    "category": "Documentation"
+  },
+  {
+    "name": "InDesign",
+    "level": 80,
+    "category": "Documentation"
+  },
+  {
+    "name": "SketchUp",
+    "level": 88,
+    "category": "Design"
+  },
+  {
+    "name": "Rhino",
+    "level": 85,
+    "category": "Design"
+  },
+  {
+    "name": "Grasshopper",
+    "level": 75,
+    "category": "Analysis"
+  },
+   {
+    "name": "Navisworks",
+    "level": 75,
+    "category": "Analysis"
+  },
+  {
+    "name": "Enscape",
+    "level": 87,
+    "category": "Visualization"
+  },
+  {
+    "name": "Lumion",
+    "level": 83,
+    "category": "Visualization"
+  },
+  {
+    "name": "Photoshop",
+    "level": 90,
+    "category": "Visualization"
+  }
+]
